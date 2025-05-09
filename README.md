@@ -58,3 +58,7 @@ Smoother, faster, and more reliable shopping experience.
 
 Conclusion
 This redesign addresses real user frustrations with clear, practical improvements. By focusing on speed, clarity, and security, the updated cart and payment flow enhances the overall Zepto app experience. This project demonstrates my ability in UI/UX design, user research, and delivering user-centered solutions.
+
+**OUTPUT**
+
+![Image](https://github.com/user-attachments/assets/c8c2f10b-7318-4cd0-8fcf-6e322c47bdeb)
