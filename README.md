@@ -61,4 +61,4 @@ This redesign addresses real user frustrations with clear, practical improvement
 
 **OUTPUT**
 
-![Image](https://github.com/user-attachments/assets/c8c2f10b-7318-4cd0-8fcf-6e322c47bdeb)
+![Image](https://github.com/user-attachments/assets/eb36fbeb-06bf-4327-9dcf-5244e767d174)
